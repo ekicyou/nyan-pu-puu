@@ -2,6 +2,7 @@ charset,Shift_JIS
 file,descript.txtf9d50ba9cca8ecf3336af630c2c40ce3size=275date=2023-12-31T16:07:27
 file,ghost/master/descript.txt77baa308a5126ec377e5cb576f7618c8size=427date=2023-12-31T16:09:27
 file,ghost/master/nyan.dlla82a3dbffadd7aeae7bd9bdb3b06df35size=2198016date=2023-12-31T15:39:33
+file,install.txta1911df384ae4ca1d19e6f11310a48easize=149date=2023-12-31T16:58:19
 file,nyan-balloon/arrow0.pngcd3ab8dc372848ba92398cdc61082f3csize=236date=2023-12-31T15:35:52
 file,nyan-balloon/arrow1.png9135ec8389fae47c94747a7d334e7bb9size=254date=2023-12-31T15:35:52
 file,nyan-balloon/balloons0.pdn603105fe327c427081e3efbe21836bccsize=19320date=2023-12-31T15:35:52
