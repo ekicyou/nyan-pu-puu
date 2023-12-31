@@ -1,0 +1,8 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "dotnet.defaultSolution": "disable",
+  "rust-analyzer.linkedProjects": [
+    ".\\Cargo.toml"
+  ]
+}
