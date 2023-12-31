@@ -1,9 +1,0 @@
-charset,UTF-8
-type,ghost
-name,にゃんぷっぷー
-sakura.name,ぱるね
-kero.name,_
-homeurl,https://ekicyou.github.io/nyan-pu-puu/ghost/main/nyan-pu-puu/
-craftman,ekicyou
-craftmanw,どっとステーション駅長
-craftmanurl,https://ekicyou.github.io/nyan-pu-puu/

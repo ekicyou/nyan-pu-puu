@@ -1,4 +1,0 @@
-Charset,UTF-8
-type,ghost
-name,にゃんぷっぷー
-directory,nyan-pu-puu
