@@ -1,7 +1,7 @@
 charset,UTF-8
 
 type,ghost
-id.emo-gs
+id.nyan-pu-puu-beta
 name,にゃんぷっぷー
 sakura.name,ぱるね
 kero.name,_

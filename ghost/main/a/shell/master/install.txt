@@ -1,0 +1,4 @@
+Charset,UTF-8
+type,shell
+name,とろける夕焼けに重ねて(茶)
+directory,yuyake_mikan_tya
