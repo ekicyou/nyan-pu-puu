@@ -1,0 +1,11 @@
+charset,UTF-8
+type,ghost
+name,にゃんぷっぷー
+sakura.name,ぱるね
+kero.name,_
+homeurl,https://raw.githubusercontent.com/ekicyou/nyan-pu-puu/main/docs/ghost/beta/nyan-pu-puu/
+craftman,ekicyou
+craftmanw,どっとステーション駅長
+craftmanurl,https://ekicyou.github.io/
+
+shiori,satori.dll
