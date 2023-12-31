@@ -18,4 +18,4 @@ shiori,nyan.dll
 seriko.alignmenttodesktop,bottom
 
 recommended.balloon,にゃんばるーん
-recommended.balloon.path,nyan-balloon
+recommended.balloon.path,nyan-pu-puu-b

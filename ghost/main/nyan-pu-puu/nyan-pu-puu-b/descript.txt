@@ -1,7 +1,7 @@
 charset,UTF-8
 type,balloon
 name,にゃんばるーん
-homeurl,https://ekicyou.github.io/nyan-pu-puu/balloon/nyan-balloon/
+homeurl,https://ekicyou.github.io/nyan-pu-puu/balloon/nyan-pu-puu-b/
 
 craftman,ekicyou
 craftmanw,どっとステーション駅長
