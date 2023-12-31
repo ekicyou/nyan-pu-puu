@@ -7,6 +7,7 @@ file,nyan-balloon/arrow1.png9135ec8389fae47c94747a7d334e7bb9size=254date=2023
 file,nyan-balloon/balloons0.pdn603105fe327c427081e3efbe21836bccsize=19320date=2023-12-31T15:35:52
 file,nyan-balloon/balloons0.png86e79b982623403bcf5ec0080e138b33size=3357date=2023-12-31T15:35:52
 file,nyan-balloon/descript.txtfb52f42d1946f5f2ed79e067e3a188b2size=1348date=2023-12-31T16:18:51
+file,nyan-balloon/install.txt593a9eff159fa09c1f82f61de3395ec8size=81date=2023-12-31T16:39:22
 file,nyan-balloon/online.png9b1b7437291a9f6b820fc3347ad9d884size=787date=2023-12-31T15:35:52
 file,nyan-balloon/online0.pngcf2dc620c64a51e69ae83a55b0284fb1size=757date=2023-12-31T15:35:52
 file,nyan-balloon/online1.pnge5dce178ae003571468aa82db64e3f10size=784date=2023-12-31T15:35:52
