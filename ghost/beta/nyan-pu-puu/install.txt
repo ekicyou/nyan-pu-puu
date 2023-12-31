@@ -2,5 +2,5 @@ Charset,UTF-8
 type,ghost
 name,にゃんぷっぷー
 directory,nyan-pu-puu
-balloon.directory,nyan-balloon
-balloon.source.directory,nyan-balloon
+balloon.directory,nyan-pu-puu-b
+balloon.source.directory,nyan-pu-puu-b
