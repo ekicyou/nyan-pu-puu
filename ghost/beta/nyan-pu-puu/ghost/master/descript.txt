@@ -9,7 +9,7 @@ homeurl,https://raw.githubusercontent.com/ekicyou/nyan-pu-puu/main/docs/ghost/be
 
 craftman,ekicyou
 craftmanw,えちょ
-craftmanurl,https://ekicyou.github.io/2024/01/01/nyan-pu-puu.html
+craftmanurl,https://ekicyou.github.io/nyan-pu-puu/
 
 icon,nyan.ico
 
