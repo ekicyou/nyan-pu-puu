@@ -1,6 +1,6 @@
 Charset,UTF-8
 type,ghost
 name,にゃんぷっぷー
-directory,nyan-pu-puu
+directory,nyan-pu-puu-beta
 balloon.directory,nyan-pu-puu-b
 balloon.source.directory,nyan-pu-puu-b

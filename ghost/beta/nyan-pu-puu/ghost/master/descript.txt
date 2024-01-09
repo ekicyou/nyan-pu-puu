@@ -2,10 +2,10 @@ charset,UTF-8
 
 type,ghost
 id.nyan-pu-puu-beta
-name,にゃんぷっぷー
+name,にゃんぷっぷーβ
 sakura.name,ぱるね
 kero.name,_
-homeurl,https://raw.githubusercontent.com/ekicyou/nyan-pu-puu/main/docs/ghost/beta/nyan-pu-puu/
+homeurl,https://ekicyou.github.io/nyan-pu-puu/ghost/beta/nyan-pu-puu/
 
 craftman,ekicyou
 craftmanw,えちょ
