@@ -7,11 +7,11 @@ descript
 
 surface0
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface200.png,0,0
-	element4,base,surface300.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface200.png,0,0
+	element3,base,surface300.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,202,100,0,0
@@ -31,12 +31,12 @@ surface0
 
 surface1
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface101.png,0,0
-	element3,base,surface201.png,0,0
-	element4,base,surface308.png,0,0
-	element5,base,surface401.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface101.png,0,0
+	element2,base,surface201.png,0,0
+	element3,base,surface308.png,0,0
+	element4,base,surface401.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,213,100,0,0
@@ -48,11 +48,11 @@ surface1
 
 surface2
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface104.png,0,0
-	element3,base,surface206.png,0,0
-	element4,base,surface304.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface104.png,0,0
+	element2,base,surface206.png,0,0
+	element3,base,surface304.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,208,100,0,0
@@ -72,11 +72,11 @@ surface2
 
 surface3
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface103.png,0,0
-	element3,base,surface200.png,0,0
-	element4,base,surface304.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface103.png,0,0
+	element2,base,surface200.png,0,0
+	element3,base,surface304.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,202,100,0,0
@@ -96,11 +96,11 @@ surface3
 
 surface4
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface103.png,0,0
-	element3,base,surface204.png,0,0
-	element4,base,surface304.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface103.png,0,0
+	element2,base,surface204.png,0,0
+	element3,base,surface304.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,203,100,0,0
@@ -118,12 +118,12 @@ surface4
 
 surface5
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface210.png,0,0
-	element4,base,surface300.png,0,0
-	element5,base,surface400.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface210.png,0,0
+	element3,base,surface300.png,0,0
+	element4,base,surface400.png,0,0
 
 	animation1.interval,talk,7
 	animation1.pattern0,overlayfast,301,100,0,0
@@ -137,12 +137,12 @@ surface5
 
 surface6
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface211.png,0,0
-	element4,base,surface300.png,0,0
-	element5,base,surface400.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface211.png,0,0
+	element3,base,surface300.png,0,0
+	element4,base,surface400.png,0,0
 
 	animation1.interval,talk,7
 	animation1.pattern0,overlayfast,301,100,0,0
@@ -156,11 +156,11 @@ surface6
 
 surface7
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface102.png,0,0
-	element3,base,surface200.png,0,0
-	element4,base,surface308.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface102.png,0,0
+	element2,base,surface200.png,0,0
+	element3,base,surface308.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,202,100,0,0
@@ -172,11 +172,11 @@ surface7
 
 surface8
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface204.png,0,0
-	element4,base,surface300.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface204.png,0,0
+	element3,base,surface300.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,203,100,0,0
@@ -194,11 +194,11 @@ surface8
 
 surface9
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface103.png,0,0
-	element3,base,surface204.png,0,0
-	element4,base,surface300.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface103.png,0,0
+	element2,base,surface204.png,0,0
+	element3,base,surface300.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,203,100,0,0
@@ -216,11 +216,11 @@ surface9
 
 surface20
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface200.png,0,0
-	element4,base,surface304.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface200.png,0,0
+	element3,base,surface304.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,202,100,0,0
@@ -240,11 +240,11 @@ surface20
 
 surface21
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface103.png,0,0
-	element3,base,surface210.png,0,0
-	element4,base,surface300.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface103.png,0,0
+	element2,base,surface210.png,0,0
+	element3,base,surface300.png,0,0
 
 	animation1.interval,talk,7
 	animation1.pattern0,overlayfast,301,100,0,0
@@ -257,11 +257,11 @@ surface21
 
 surface22
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface212.png,0,0
-	element4,base,surface300.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface212.png,0,0
+	element3,base,surface300.png,0,0
 
 	animation1.interval,talk,7
 	animation1.pattern0,overlayfast,301,100,0,0
@@ -275,21 +275,21 @@ surface22
 
 surface23
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface212.png,0,0
-	element4,base,surface309.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface212.png,0,0
+	element3,base,surface309.png,0,0
 
 }
 
 surface24
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface200.png,0,0
-	element4,base,surface309.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface200.png,0,0
+	element3,base,surface309.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,202,100,0,0
@@ -301,28 +301,28 @@ surface24
 
 surface25
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface210.png,0,0
-	element4,base,surface309.png,0,0
-	element5,base,surface400.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface210.png,0,0
+	element3,base,surface309.png,0,0
+	element4,base,surface400.png,0,0
 
 }
 
 surface26
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface102.png,0,0
-	element3,base,surface212.png,0,0
-	element4,base,surface309.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface102.png,0,0
+	element2,base,surface212.png,0,0
+	element3,base,surface309.png,0,0
 
 }
 
 surface27
 {
-	element0,base,surface500.png,0,0
+
 	element1,base,surface0.png,0,0
 	element2,base,surface102.png,0,0
 	element3,base,surface212.png,0,0
@@ -333,12 +333,12 @@ surface27
 
 surface28
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface104.png,0,0
-	element3,base,surface206.png,0,0
-	element4,base,surface304.png,0,0
-	element5,base,surface401.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface104.png,0,0
+	element2,base,surface206.png,0,0
+	element3,base,surface304.png,0,0
+	element4,base,surface401.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,215,100,0,0
@@ -358,11 +358,11 @@ surface28
 
 surface29
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface101.png,0,0
-	element3,base,surface207.png,0,0
-	element4,base,surface304.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface101.png,0,0
+	element2,base,surface207.png,0,0
+	element3,base,surface304.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,208,100,0,0
@@ -382,12 +382,12 @@ surface29
 
 surface30
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface101.png,0,0
-	element3,base,surface207.png,0,0
-	element4,base,surface304.png,0,0
-	element5,base,surface401.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface101.png,0,0
+	element2,base,surface207.png,0,0
+	element3,base,surface304.png,0,0
+	element4,base,surface401.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,215,100,0,0
@@ -407,11 +407,11 @@ surface30
 
 surface31
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface201.png,0,0
-	element4,base,surface300.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface201.png,0,0
+	element3,base,surface300.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,202,100,0,0
@@ -431,11 +431,11 @@ surface31
 
 surface32
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface201.png,0,0
-	element4,base,surface304.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface201.png,0,0
+	element3,base,surface304.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,202,100,0,0
@@ -455,11 +455,11 @@ surface32
 
 surface33
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface205.png,0,0
-	element4,base,surface300.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface205.png,0,0
+	element3,base,surface300.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,203,100,0,0
@@ -478,11 +478,11 @@ surface33
 
 surface34
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface0.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface205.png,0,0
-	element4,base,surface304.png,0,0
+
+	element0,base,surface0.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface205.png,0,0
+	element3,base,surface304.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,203,100,0,0
@@ -501,11 +501,11 @@ surface34
 
 surface40
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface200.png,0,0
-	element4,base,surface300.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface200.png,0,0
+	element3,base,surface300.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,202,100,0,0
@@ -525,22 +525,22 @@ surface40
 
 surface41
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface101.png,0,0
-	element3,base,surface201.png,0,0
-	element4,base,surface308.png,0,0
-	element5,base,surface401.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface101.png,0,0
+	element2,base,surface201.png,0,0
+	element3,base,surface308.png,0,0
+	element4,base,surface401.png,0,0
 
 }
 
 surface42
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface104.png,0,0
-	element3,base,surface206.png,0,0
-	element4,base,surface304.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface104.png,0,0
+	element2,base,surface206.png,0,0
+	element3,base,surface304.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,208,100,0,0
@@ -560,11 +560,11 @@ surface42
 
 surface43
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface103.png,0,0
-	element3,base,surface200.png,0,0
-	element4,base,surface304.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface103.png,0,0
+	element2,base,surface200.png,0,0
+	element3,base,surface304.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,202,100,0,0
@@ -584,11 +584,11 @@ surface43
 
 surface44
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface103.png,0,0
-	element3,base,surface204.png,0,0
-	element4,base,surface304.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface103.png,0,0
+	element2,base,surface204.png,0,0
+	element3,base,surface304.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,203,100,0,0
@@ -606,12 +606,12 @@ surface44
 
 surface45
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface210.png,0,0
-	element4,base,surface300.png,0,0
-	element5,base,surface400.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface210.png,0,0
+	element3,base,surface300.png,0,0
+	element4,base,surface400.png,0,0
 
 	animation1.interval,talk,7
 	animation1.pattern0,overlayfast,301,100,0,0
@@ -625,12 +625,12 @@ surface45
 
 surface46
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface211.png,0,0
-	element4,base,surface300.png,0,0
-	element5,base,surface400.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface211.png,0,0
+	element3,base,surface300.png,0,0
+	element4,base,surface400.png,0,0
 
 	animation1.interval,talk,7
 	animation1.pattern0,overlayfast,301,100,0,0
@@ -644,11 +644,11 @@ surface46
 
 surface47
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface102.png,0,0
-	element3,base,surface200.png,0,0
-	element4,base,surface308.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface102.png,0,0
+	element2,base,surface200.png,0,0
+	element3,base,surface308.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,202,100,0,0
@@ -660,11 +660,11 @@ surface47
 
 surface48
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface204.png,0,0
-	element4,base,surface300.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface204.png,0,0
+	element3,base,surface300.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,203,100,0,0
@@ -682,11 +682,11 @@ surface48
 
 surface49
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface103.png,0,0
-	element3,base,surface204.png,0,0
-	element4,base,surface300.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface103.png,0,0
+	element2,base,surface204.png,0,0
+	element3,base,surface300.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,203,100,0,0
@@ -704,11 +704,11 @@ surface49
 
 surface50
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface200.png,0,0
-	element4,base,surface304.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface200.png,0,0
+	element3,base,surface304.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,202,100,0,0
@@ -728,11 +728,11 @@ surface50
 
 surface51
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface103.png,0,0
-	element3,base,surface210.png,0,0
-	element4,base,surface300.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface103.png,0,0
+	element2,base,surface210.png,0,0
+	element3,base,surface300.png,0,0
 
 	animation1.interval,talk,7
 	animation1.pattern0,overlayfast,301,100,0,0
@@ -745,11 +745,11 @@ surface51
 
 surface52
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface212.png,0,0
-	element4,base,surface300.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface212.png,0,0
+	element3,base,surface300.png,0,0
 
 	animation1.interval,talk,7
 	animation1.pattern0,overlayfast,301,100,0,0
@@ -763,21 +763,21 @@ surface52
 
 surface53
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface212.png,0,0
-	element4,base,surface309.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface212.png,0,0
+	element3,base,surface309.png,0,0
 
 }
 
 surface54
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface200.png,0,0
-	element4,base,surface309.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface200.png,0,0
+	element3,base,surface309.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,202,100,0,0
@@ -789,44 +789,44 @@ surface54
 
 surface55
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface210.png,0,0
-	element4,base,surface309.png,0,0
-	element5,base,surface400.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface210.png,0,0
+	element3,base,surface309.png,0,0
+	element4,base,surface400.png,0,0
 
 }
 
 surface56
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface102.png,0,0
-	element3,base,surface212.png,0,0
-	element4,base,surface309.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface102.png,0,0
+	element2,base,surface212.png,0,0
+	element3,base,surface309.png,0,0
 
 }
 
 surface57
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface102.png,0,0
-	element3,base,surface212.png,0,0
-	element4,base,surface309.png,0,0
-	element5,base,surface401.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface102.png,0,0
+	element2,base,surface212.png,0,0
+	element3,base,surface309.png,0,0
+	element4,base,surface401.png,0,0
 
 }
 
 surface58
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface104.png,0,0
-	element3,base,surface206.png,0,0
-	element4,base,surface304.png,0,0
-	element5,base,surface401.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface104.png,0,0
+	element2,base,surface206.png,0,0
+	element3,base,surface304.png,0,0
+	element4,base,surface401.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,215,100,0,0
@@ -846,11 +846,11 @@ surface58
 
 surface59
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface101.png,0,0
-	element3,base,surface207.png,0,0
-	element4,base,surface304.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface101.png,0,0
+	element2,base,surface207.png,0,0
+	element3,base,surface304.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,208,100,0,0
@@ -870,12 +870,12 @@ surface59
 
 surface60
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface101.png,0,0
-	element3,base,surface207.png,0,0
-	element4,base,surface304.png,0,0
-	element5,base,surface401.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface101.png,0,0
+	element2,base,surface207.png,0,0
+	element3,base,surface304.png,0,0
+	element4,base,surface401.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,215,100,0,0
@@ -895,11 +895,11 @@ surface60
 
 surface61
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface201.png,0,0
-	element4,base,surface300.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface201.png,0,0
+	element3,base,surface300.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,202,100,0,0
@@ -919,11 +919,11 @@ surface61
 
 surface62
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface201.png,0,0
-	element4,base,surface304.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface201.png,0,0
+	element3,base,surface304.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,202,100,0,0
@@ -943,11 +943,11 @@ surface62
 
 surface63
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface205.png,0,0
-	element4,base,surface300.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface205.png,0,0
+	element3,base,surface300.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,203,100,0,0
@@ -966,11 +966,11 @@ surface63
 
 surface64
 {
-	element0,base,surface500.png,0,0
-	element1,base,surface30.png,0,0
-	element2,base,surface100.png,0,0
-	element3,base,surface205.png,0,0
-	element4,base,surface304.png,0,0
+
+	element0,base,surface30.png,0,0
+	element1,base,surface100.png,0,0
+	element2,base,surface205.png,0,0
+	element3,base,surface304.png,0,0
 
 	animation0.interval,sometimes
 	animation0.pattern0,overlay,203,100,0,0
@@ -990,11 +990,6 @@ surface64
 surface10
 {
 	element0,base,surface10.png,0,0
-}
-
-surface500
-{
-	element0,base,surface500.png,0,0
 }
 
 surface.append0-9,20-29,30-34
